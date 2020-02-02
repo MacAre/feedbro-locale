@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.10",
+        "locale_version": "1.11",
         "locale_name": "French",
         "locale_type": "fr_FR",
         "locale_last_updated": "2019-12-20 12:45:00 UTC",
