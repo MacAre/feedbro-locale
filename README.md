@@ -6,12 +6,7 @@ Vous pouvez télécharger Feedbro sur :
   - https://addons.mozilla.org/fr/firefox/addon/feedbroreader/
 
 Dans les paramètres de Feedbro, sélectionner l'URL suivante pour passer l'interface utilisateur en français
-
-https://raw.githubusercontent.com/Bozosoft/feedbro-locale/master/feedbro-locale-fr_FR.json
-
-  - puis sélectionner l'icône "Settings", puis dans "Settings Page", en face de "User interface language" cliquez sur "Import locale" et entrez dans la case "URL address of the Feedbro Locale (JSON-file)" l'URL copiée: 
-  - Puis sélectionner : French (fr_FR) et validez.
-  - Pour mettre à jour sélectionner: Mise à jour de la Locale.
+https://raw.githubusercontent.com/MacAre/feedbro-locale/master/feedbro-locale-fr_FR.json
 
 
-#### [Me contacter](http://jc.etiemble.free.fr/ "Site Web perso")
+*** La version originale est de Bozosoft ***
