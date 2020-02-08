@@ -261,7 +261,7 @@
     "options_maxentries_select_title": "Nombre maximum d'entrées (articles) qui sont chargées à partir d'un seul flux (le flux agrégé peut contenir autant d'entrées que vous le souhaitez)",
     "options_inactivelimit_body": "Limite des flux inactifs",
     "options_inactivelimit_select_title": "Si le dernier message du flux a été publié il y a plus de X jours, le flux est considéré comme inactif et est automatiquement sélectionné pour suppression dans la vue Statistiques du flux.",
-    "options_inactivelimit_unit_body": "jours",
+    "options_inactivelimit_unit_body": "jour(s)",
     "options_dateformat_body": "Format de date",
     "options_article_titlefontsize_body": "Taille de la police du titre de l'article",
     "options_article_titlefontsize_select_title": "Taille relative du texte du titre de l'article par rapport au réglage par défaut",
