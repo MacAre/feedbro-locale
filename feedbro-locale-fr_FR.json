@@ -381,7 +381,7 @@
     "ruleform_trigger_feed_body": "flux",
     "ruleform_match_body": "Correspond à",
     "ruleform_match_all_body": "Toutes les conditions",
-    "ruleform_match_any_body": "Toute condition",
+    "ruleform_match_any_body": "Un des conditions",
     "ruleform_match_none_body": "Aucune des conditions",
     "ruleform_condition_name_body": "Condition",
     "ruleform_condition_remove_title": "Supprimer la condition",
