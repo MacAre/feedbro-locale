@@ -488,7 +488,7 @@
     "statsview_table_properties": "Propriétés",
     "statsview_table_latestupdate": "Dernière mise à jour",
     "statsview_table_status": "Statut",
-    "statsview_table_scandelay": "Délai de scan",
+    "statsview_table_scandelay": "Délai d'analyse",
     "statsview_table_scandelay_title": "En quelques minutes",
     "statsview_table_selected": "Sélectionnés",
     "statsview_table_rowclick_title": "Cliquez pour lire les entrées",
