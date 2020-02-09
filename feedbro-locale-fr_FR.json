@@ -102,7 +102,7 @@
     "dialog_cancel": "Annuler",
     "eventform_event_body": "Événement",
     "eventform_trigger_arrives_body": "Arrivée d'un nouvel article dans le flux",
-    "eventform_trigger_viewed_body": "L'article est vu dans le flux",
+    "eventform_trigger_viewed_body": "L'article est affiché dans le flux",
     "eventform_article_title_body": "Titre de l'article",
     "eventform_article_url_body": "URL de l'article",
     "eventform_article_author_body": "Auteur de l’article",
