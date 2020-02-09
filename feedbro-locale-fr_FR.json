@@ -444,7 +444,7 @@
     "ruleview_error_folder_missing": "Au moins un dossier doit être sélectionné !",
     "ruleview_error_feed_missing": "Au moins un flux doit être sélectionné !",
     "ruleview_action_addrule_body": "Ajouter une règle",
-    "ruleview_action_testrules_body": "Règles du test",
+    "ruleview_action_testrules_body": "Tester les règles",
     "ruleview_no_rules_yet_body": "Pas encore de règles définies",
     "ruleview_table_row_title": "Glisser/déposer la ligne pour modifier l'ordre d'exploitation des règles",
     "ruleview_no_matches": "Aucune règle ne correspond",
