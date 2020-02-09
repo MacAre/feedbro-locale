@@ -240,7 +240,7 @@
     "options_locale_url": "Adresse URL du Feedbro de la langue (fichier JSON)",
     "options_action_locale_failed": "L'importation de la langue a échoué ! Erreur : {1}",
     "options_action_locale_success": "Importation de la langue réussie !",
-    "options_action_update_locale_body": "Mise à jour de la langue",
+    "options_action_update_locale_body": "Mettre à jour la langue",
     "options_action_locale_update_failed": "La mise à jour de la langue a échoué ! Erreur : {1}",
     "options_action_locale_update_success": "Mise à jour de la langue réussie !",
     "options_action_template_locale_body": "Obtenir le fichier de langue",
